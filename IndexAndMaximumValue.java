@@ -7,7 +7,7 @@ My Approach : In this question, we need to find the maximum value. When I took t
 */
 import java.util.*;
 
-public class A {
+public class IndexAndMaximumValue {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int t = input.nextInt();
