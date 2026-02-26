@@ -6,7 +6,7 @@ My Approach : Repeatedly remove adjacent equal characters using StringBuilder an
 
 import java.util.Scanner;
  
-public class A {
+public class GameWithString {
     public static void main(String[] args) {
  
         Scanner sc = new Scanner(System.in);
