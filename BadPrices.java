@@ -7,7 +7,7 @@ My Approach :  Traverse from right to left, keep track of minimum value and coun
 import java.util.ArrayList;
 import java.util.Scanner;
  
-public class A {
+public class BadPrices {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
