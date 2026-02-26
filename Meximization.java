@@ -9,7 +9,7 @@ My Approach : First I created an array of size 101. Then,a variable was created 
 import java.util.ArrayList;
 import java.util.Scanner;
  
-public class A {
+public class Meximization {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
