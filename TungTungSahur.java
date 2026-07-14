@@ -9,7 +9,7 @@ My Approach : Firstly, I created a counter function that counts consecutive L or
  
 import java.util.Scanner;
  
-public class D {
+public class TungTungSahur {
     static int[] counter(String str, int idx) {
         char ch = str.charAt(idx);
         int[] arr = new int[2];
